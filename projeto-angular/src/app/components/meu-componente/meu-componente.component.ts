@@ -14,4 +14,11 @@ nome:string = "João";
 idade:number = 26;
 cidade:string = "São Paulo";
 interesses = ["programação", "viagem", "fotografia"]
+
+  Pessoa = {
+    nome: "João",
+    idade: 26,
+    cidade: "São Paulo",
+    interesses: ["programação", "viagem", "fotografia"]
+  }
 }
